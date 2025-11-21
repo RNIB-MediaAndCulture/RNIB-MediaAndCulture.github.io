@@ -6,4 +6,4 @@ RNIB's Media and Culture team are keen to collaborate with industry and academic
 
 [RNIB Devkit](https://github.com/RNIB-MediaAndCulture/Gaming_Devkit/blob/main/Devkit.md)
 
-[Other bits](https://raw.githubusercontent.com/RNIB-MediaAndCulture/Gaming_Devkit/refs/heads/Version2/Github%20link%20generator/linkgen.html)
+[Other bits](https://github.com/RNIB-MediaAndCulture/Gaming_Devkit/refs/heads/Version2/Github%20link%20generator/linkgen.html)
