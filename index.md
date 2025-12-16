@@ -5,5 +5,3 @@ RNIB's Media and Culture team are keen to collaborate with industry and academic
 [Accessible Gaming Report](https://rnib-mediaandculture.github.io/AccessibleGamingReport/)
 
 [RNIB Devkit](https://github.com/RNIB-MediaAndCulture/Gaming_Devkit/blob/main/Devkit.md)
-
-[AKORG (Beta)](https://raw.githubusercontent.com/RNIB-MediaAndCulture/Gaming_Devkit/refs/heads/AKO-report-generator/AKORG.html))
